@@ -23,4 +23,4 @@ El objetivo no es solo predecir, sino hacerlo de forma **justa, explicable y soc
 
 ## 📁 Estructura del Proyecto
 
-
+📦scoring_crediticio ┣ 📂data/ # Datasets usados ┣ 📂notebooks/ # Análisis exploratorio, modelos ┣ 📂models/ # Modelos entrenados ┣ 📂outputs/ # Métricas y gráficas ┗ README.md # Descripción del proyecto
