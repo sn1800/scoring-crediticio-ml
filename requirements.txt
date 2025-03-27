@@ -1,1 +1,7 @@
-"pandas\nnumpy\nmatplotlib\nseaborn\nscikit-learn\njupyter\nshap" 
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+shap
